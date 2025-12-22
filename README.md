@@ -1,6 +1,11 @@
 # assets_smartpro_s
 Smart Pro S TG5050 SD base package
 
+SD base package - 20251222
+=================================
+1. Removed all PPSSPP preset chect codes. (GOW performance issues)
+2. Fixed ports 2048 launch script.
+
 SD base package - 20251218
 =================================
 1. Updated RetroArch 1.22.2
