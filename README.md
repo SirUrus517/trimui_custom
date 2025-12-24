@@ -1,6 +1,11 @@
 # assets_smartpro_s
 Smart Pro S TG5050 SD base package
 
+Hotfix - 20251224
+=================================
+1. Fixed RetroArch 1.22.2 (ra64.trimui) crash when using trimui menu to exit game.
+2. Fixed RetroArch 1.22.2 (ra64.trimui) memcard savestate / battery savestate.
+
 SD base package - 20251222
 =================================
 1. Removed all PPSSPP preset cheat codes. (GOW performance issues)
