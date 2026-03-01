@@ -1,1 +1,2 @@
-Alternative OSD button layout for Trimui Smart Pro/Smart Pro S 
+Alternative OSDD button design for Trimui Smart Pro/Smart Pro S 
+ 
